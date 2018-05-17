@@ -1,0 +1,42 @@
+.background {
+    background-color: #00C853;
+}
+
+.btn {
+    background-color: #212121;
+}
+
+.btn-tb-ed {
+    background-color: #01579b;
+}
+
+.btn-tb-ex {
+ background-color: #d50000;
+}
+
+.btn:hover {
+    background-color: #424242;
+}
+
+.tabela {
+    margin-top: 100px;
+    height: 350px;
+    overflow-y: auto;
+}
+
+.btn-cadastrar {
+    margin-top: 20px;
+}
+
+.btn-cadastrar:hover {
+    background-color: #424242;
+}
+
+.form-cadastrar {
+    margin-top: 20px;
+}
+
+.sair {
+    text-decoration: underline;
+    font-weight: bold;
+}
