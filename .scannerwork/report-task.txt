@@ -1,0 +1,7 @@
+organization=robertosrocha-github
+projectKey=SAA
+serverUrl=https://sonarcloud.io
+serverVersion=7.3.0.14089
+dashboardUrl=https://sonarcloud.io/dashboard?id=SAA
+ceTaskId=AWRmguARXvYvXQrbHMw4
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWRmguARXvYvXQrbHMw4
