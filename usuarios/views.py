@@ -5,7 +5,6 @@ from django.views.generic.detail import DetailView
 from django.views.generic.edit import CreateView
 from django.views.generic.edit import UpdateView
 from django.views.generic.edit import DeleteView
-from django.utils import timezone
 from django.urls import reverse_lazy
 
 
